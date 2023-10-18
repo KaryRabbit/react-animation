@@ -129,7 +129,7 @@ const Home = forwardRef((props, ref) => {
               </Sphere>
             </Suspense>
           </Canvas>
-          <Img src="/img/rabbit1.png"></Img>
+          <Img src="./img/rabbit1.png"></Img>
         </RightBlock>
       </Container>
     </Section>

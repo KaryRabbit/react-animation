@@ -84,7 +84,7 @@ const Navbar = ({ refs }) => {
     <Section>
       <Container>
         <Links>
-          <Logo src="/img/logo.svg" />
+          <Logo src="./img/logo.svg" />
           <List>
             <ListItem onClick={() => scrollToRef(refs.home)}>Home</ListItem>
             <ListItem onClick={() => scrollToRef(refs.geometry)}>

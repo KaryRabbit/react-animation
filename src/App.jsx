@@ -15,7 +15,7 @@ const Container = styled.div`
 
   overflow-y: auto;
   scroll-behavior: smooth;
-  background: url('/img/bg.jpg');
+  background: url('./img/bg.jpg');
   background-size: cover;
   color: ${colors.primaryColor};
   &::-webkit-scrollbar {
